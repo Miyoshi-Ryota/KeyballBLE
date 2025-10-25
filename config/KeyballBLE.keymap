@@ -18,11 +18,6 @@
     combos {
         compatible = "zmk,combos";
 
-        double_quotation {
-            bindings = <&kp DOUBLE_QUOTES>;
-            key-positions = <20 21>;
-        };
-
         bluetooth {
             bindings = <&mo 4>;
             key-positions = <34 35 36>;
